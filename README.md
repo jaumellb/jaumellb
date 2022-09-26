@@ -4,6 +4,7 @@
 - 🌎 Hello world
 - Begginer with Python
 - You can find me on Linkedin
+- Tryng to leaen as much as possible
 
 <!---
 jaumellb/jaumellb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
